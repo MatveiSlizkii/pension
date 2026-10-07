@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": ";ekjrgn;lkrjebgn;lkejvbn.md",
+                "file": "Конспекты к срезам/5 срез.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": ";ekjrgn;lkrjebgn;lkejvbn"
+              "title": "5 срез"
             }
           }
         ]
@@ -199,9 +199,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3029c2bf9b1780c9",
+  "active": "621771dc5f46e59f",
   "lastOpenFiles": [
-    "Без назваsdfsdfasdfния.md",
-    ";ekjrgn;lkrjebgn;lkejvbn.md"
+    ";ekjrgn;lkrjebgn;lkejvbn.md",
+    "Конспекты к срезам/5 срез.md",
+    "Конспекты к срезам",
+    "Без назваsdfsdfasdfния.md"
   ]
 }
