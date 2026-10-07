@@ -22,22 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "9c91cd78878034a9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dbb32390fa8190b1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -185,13 +169,23 @@
               "icon": "lucide-list",
               "title": "Структура"
             }
+          },
+          {
+            "id": "a8691fe99a778c08",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,11 +195,13 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false
+      "bases:Создать новую базу": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "621771dc5f46e59f",
   "lastOpenFiles": [
+    "Без назваsdfsdfasdfния.md",
     ";ekjrgn;lkrjebgn;lkejvbn.md"
   ]
 }
