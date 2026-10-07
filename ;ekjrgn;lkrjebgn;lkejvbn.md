@@ -1,2 +1,2 @@
 Это ваше новое *хранилище*.
-adfgbadbhadbnrwt vchvyhcsdty vhsdfsdfsfadfasdfcxм.пвапывпфпуафыпапаука
+adfgbadbhadbnrwt vchvyhcsdty вафывпфываипфупифывп vhsdfsdfsfadfasdfcxм.пвапывпфпуафыпапаука
