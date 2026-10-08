@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Конспекты к срезам/5 срез.md",
+                "file": "Конспекты к срезам/5 срез/БД.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5 срез"
+              "title": "БД"
             }
           }
         ]
@@ -199,12 +199,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "621771dc5f46e59f",
+  "active": "3029c2bf9b1780c9",
   "lastOpenFiles": [
+    "Конспекты к срезам/5 срез/Legacy.md",
+    "Конспекты к срезам/5 срез/БД.md",
+    "Конспекты к срезам/5 срез.md",
     "Конспекты к срезам/5 срез",
     "Конспекты к срезам/5 срез/БД",
     ";ekjrgn;lkrjebgn;lkejvbn.md",
-    "Конспекты к срезам/5 срез.md",
     "Конспекты к срезам",
     "Без назваsdfsdfasdfния.md"
   ]
